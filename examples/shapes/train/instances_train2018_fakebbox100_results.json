@@ -1,0 +1,7 @@
+[
+{"image_id" : 1, "category_id" : 1, "bbox" : [3518.9, 3.0, 240.0, 282.0], "score" : 0.9},
+{"image_id" : 2, "category_id" : 2, "bbox" : [3554.9, 3.0, 192.0, 260.9], "score" : 0.9},
+{"image_id" : 3, "category_id" : 3, "bbox" : [3548.9, 2.9, 204.0, 246.0], "score" : 0.9},
+{"image_id" : 4, "category_id" : 3, "bbox" : [3530.9, 2.9, 206.9, 279.0], "score" : 0.9},
+{"image_id" : 5, "category_id" : 3, "bbox" : [3554.9, 8.9, 153.0, 279.0], "score" : 0.9}
+]
